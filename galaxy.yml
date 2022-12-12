@@ -1,0 +1,20 @@
+namespace: my
+name: collection
+version: 1.4.0
+readme: README.md
+authors:
+  - Hiro Kitahara (https://github.com/hirokuni-kitahara)
+description: Sample Collection
+license_file: COPYING
+tags:
+  - mongodb
+  - database
+  - nosql
+dependencies:
+  community.general: '==6.1.0'
+  ansible.posix: '==1.4.0'
+  community.mongodb: '==1.4.0'
+repository: https://github.com/ansible-collections/community.mongodb
+documentation: https://github.com/ansible-collections/community.mongodb/tree/master/docs
+homepage: https://github.com/ansible-collections/community.mongodb
+issues: https://github.com/ansible-collections/community.mongodb
